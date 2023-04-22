@@ -6,6 +6,7 @@
  */
 int main(void)
 {
+	char alp[26] = "zyxwvutsrqponmlkjihgfedcba";
 	char ch;
 
 	for (ch = 'z'; ch < 'a'; ch--)
